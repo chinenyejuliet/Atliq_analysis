@@ -1,4 +1,4 @@
-# Atliq_analysis SQL dATA ANALYSIS
+# Atliq_analysis SQL DATA ANALYSIS
 ## Overview
 Atliq Hardware (imaginary company) is a major player in the computer hardware manufacturing industry, with operations across India and other international markets. Despite its success, the company has struggled with making timely and accurate data-based decisions. To address this challenge, the management is expanding its data analytics team, seeking candidates with strong SQL skills to enhance their data-driven decision-making processes.
 
