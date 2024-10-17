@@ -5,9 +5,9 @@ Atliq Hardware (imaginary company) is a major player in the computer hardware ma
 As part of the Resume Project Challenge 4, organized by Codebasics, applicants are required to complete an SQL skills test, designed by Tony Sharma, the head of data analytics at Atliq Hardware. The test involves working with a consumer goods database, which holds key information related to the company's operations and performance.
 
 **This project showcases my solutions to the SQL test, highlighting my ability to:**
--Write complex SQL queries to extract meaningful insights from large datasets.
--Perform data cleaning, transformation, and reporting using SQL.
--Support business decision-making by analyzing sales, inventory, and other key performance indicators.
+- Write complex SQL queries to extract meaningful insights from large datasets.
+- Perform data cleaning, transformation, and reporting using SQL.
+- Support business decision-making by analyzing sales, inventory, and other key performance indicators.
 
 The test is a crucial step in demonstrating how junior analysts can contribute to Atliq Hardware’s goal of improving their operational efficiency and data-driven strategies.
 
