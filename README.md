@@ -1,10 +1,23 @@
-# Atliq_analysis
+# Atliq_analysis SQL dATA ANALYSIS
 ## Overview
-This is a project from Resume Project Challenge 4, organized by Codebasics and Atliq Hardwares with the consumer goods database. Atliq Hardware is a leading manufacturer of computer hardwares in India and other nations but struggled with making prompt and accurate data-based decisions. The management decided to add more junior data analysts to the data analytics team. Tony Sharma, the head of data analytics conducts an SQL test to identify applicants with SQL abilities.
+Atliq Hardware (imaginary company) is a major player in the computer hardware manufacturing industry, with operations across India and other international markets. Despite its success, the company has struggled with making timely and accurate data-based decisions. To address this challenge, the management is expanding its data analytics team, seeking candidates with strong SQL skills to enhance their data-driven decision-making processes.
+
+As part of the Resume Project Challenge 4, organized by Codebasics, applicants are required to complete an SQL skills test, designed by Tony Sharma, the head of data analytics at Atliq Hardware. The test involves working with a consumer goods database, which holds key information related to the company's operations and performance.
+
+**This project showcases my solutions to the SQL test, highlighting my ability to:**
+-Write complex SQL queries to extract meaningful insights from large datasets.
+-Perform data cleaning, transformation, and reporting using SQL.
+-Support business decision-making by analyzing sales, inventory, and other key performance indicators.
+
+The test is a crucial step in demonstrating how junior analysts can contribute to Atliq Hardware’s goal of improving their operational efficiency and data-driven strategies.
+
+## Tools 
+- Mysql
 
 ## Data Sources
-This file provides a comprehensive overview of the tables found in the 'gdb023' (atliq_hardware_db) database. It includes information for six main tables:
+This is a Project taken from Resume Project Challenge 4  organized by Codebasics and Atliq Technologies [visit page](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
+This file provides a comprehensive overview of the tables found in the 'gdb023' (atliq_hardware_db) database. It includes information for six main tables:
 1. dim_customer: contains customer-related data
 2. dim_product: contains product-related data
 3. fact_gross_price: contains gross price information for each product
