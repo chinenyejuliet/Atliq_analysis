@@ -25,4 +25,14 @@ This file provides a comprehensive overview of the tables found in the 'gdb023' 
 5. fact_pre_invoice_deductions: contains pre-invoice deductions information for each product
 6. fact_sales_monthly: contains monthly sales data for each product.
 
+***
+
+## Queries
+
+-- Question 1 
+```SELECT
+      DISTINCT market
+    FROM  dim_customer
+    WHERE customer = 'Atliq Exclusive' 	AND region = 'APAC';
+
 
