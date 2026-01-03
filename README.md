@@ -29,10 +29,20 @@ This file provides a comprehensive overview of the tables found in the 'gdb023' 
 
 ## Queries
 
--- Question 1 
+-- Question 1. Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC 
+region. 
 ```SELECT
       DISTINCT market
     FROM  dim_customer
     WHERE customer = 'Atliq Exclusive' 	AND region = 'APAC';
+
+-- Question 2.hat is the percentage of unique product increase in 2021 vs. 2020? The final output contains 
+these fields,  
+• unique_products_2020  
+• unique_products_2021 
+• percentage_chg
+
+```
+ 
 
 
